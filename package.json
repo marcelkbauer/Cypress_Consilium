@@ -1,0 +1,14 @@
+{
+  "name": "consilium",
+  "version": "1.0.0",
+  "description": "Consilium Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcel K. Bauer",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2"
+  }
+}
